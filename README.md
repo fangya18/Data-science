@@ -6,3 +6,5 @@ Data science related topics
 2. Hw3: Set, Relational Algebra
 
 3. Normalization method
+
+4. Odds Ratio
