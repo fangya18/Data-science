@@ -10,13 +10,17 @@ Normalization method
 
 ## 2.Python
 ### Python 100 days
-day1 basic work
-day2
+day2-3
 day3
 day4
 day5
 day6
 day7
+
+day13:
+\
+day14: Send emails
+\
 
 ### Graph
 Network graph
