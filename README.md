@@ -19,8 +19,9 @@ day7
 
 day13:
 \
-day14: Send emails
+day14: email, smtplib - Send emails
 \
+day15: PIL-img info, thumbnail, rotate, mirror, filter, sticker, pixel changes
 
 ### Graph
 Network graph
