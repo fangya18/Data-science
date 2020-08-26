@@ -29,6 +29,8 @@ day17: Data structure Algorithmn of Sorting
 \
 day18: Function, Variable orders
 
+Ref: https://github.com/jackfrued/Python-100-Days
+
 ### Graph
 Network graph
 
