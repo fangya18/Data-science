@@ -22,6 +22,10 @@ day13:
 day14: email, smtplib - Send emails
 \
 day15: PIL-img info, thumbnail, rotate, mirror, filter, sticker, pixel changes
+\
+day16:
+\
+day17: Data structure Algorithmn of Sorting
 
 ### Graph
 Network graph
