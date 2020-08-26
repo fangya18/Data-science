@@ -1,6 +1,6 @@
 # data-science Data 
 
-## 1.HU folder: Harrisburg Class notes, Homework and Projects:
+## 1.Harrisburg Class notes, Homework and Projects:
 ###   C520
 Data Mining Hw2: a.Backward Selection, b.Hierarchy, c.Normalization
 
@@ -26,6 +26,8 @@ day15: PIL-img info, thumbnail, rotate, mirror, filter, sticker, pixel changes
 day16:
 \
 day17: Data structure Algorithmn of Sorting
+\
+day18: Function, Variable orders
 
 ### Graph
 Network graph
