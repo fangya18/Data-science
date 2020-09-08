@@ -34,6 +34,8 @@ day19:
 day20:
 \
 day21: Html
+\
+day22: CSS insertion button
 
 Ref: https://github.com/jackfrued/Python-100-Days
 
