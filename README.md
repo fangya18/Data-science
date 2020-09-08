@@ -36,6 +36,8 @@ day20:
 day21: Html
 \
 day22: CSS insertion button
+\
+day23: CSS paragraph, video, audio
 
 Ref: https://github.com/jackfrued/Python-100-Days
 
